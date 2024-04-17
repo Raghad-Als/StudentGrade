@@ -17,7 +17,6 @@
 #### 14- mark=120 && result= 'B' ==> fail
 #### 15- mark=120 &&  result='F' ==> pass
 # Results:
-
 ![tests1](https://github.com/Raghad-Als/StudentGrade/assets/167207110/a9b8a6c6-bfe9-491f-901f-78a3494dbcfb)
 
 
