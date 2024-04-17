@@ -16,6 +16,3 @@
 #### 13- mark=120 && result= 'A' ==> fail
 #### 14- mark=120 && result= 'B' ==> fail
 #### 15- mark=120 &&  result='F' ==> pass
-
-
-
